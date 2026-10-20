@@ -1,6 +1,6 @@
 # 🩺 Clinical IoT Telemetry & Remote Patient Monitoring System
 
-Plataforma de telemetría médica y monitorización de pacientes en tiempo real diseñada para la transmisión, detección de anomalías y visualización de bioseñales críticas sobre redes IP virtualizadas. Proyecto desarrollado en la asignatura **Redes y Servicios** (Grado en Ingeniería Biomédica / Telecomunicaciones, ETSIT - Universidad Politécnica de Madrid).
+Plataforma de telemetría médica y monitorización de pacientes en tiempo real diseñada para la transmisión, detección de anomalías y visualización de bioseñales críticas sobre redes IP virtualizadas. Proyecto desarrollado en la asignatura **Redes y Servicios** (Grado en Ingeniería Biomédica, ETSIT - Universidad Politécnica de Madrid).
 
 El sistema integra la emulación de constantes fisiológicas, la segmentación y enrutamiento estático mediante routers virtuales bajo **VNX / LXC**, la intermediación mediante un broker **MQTT (EMQX)** y cuadro de mando en **Grafana** desplegados en contenedores **Docker**, y la auditoría del tráfico de red a nivel de paquetes con **Wireshark**.
 
