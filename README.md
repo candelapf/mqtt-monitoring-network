@@ -188,5 +188,8 @@ python3 src/client.py
 
 En el directorio `captures/` se incluyen las trazas de paquetes `.pcapng` obtenidas en las interfaces de red para validar el comportamiento del protocolo:
 * **`qos0.pcapng` vs `qos1.pcapng`:** Demostración del mecanismo de entrega no confirmada frente a la entrega con acuse de recibo (`PUBACK`).
+
+## 👥 Autoras
+Inés Manso y Candela Prieto
 * **`alertas.pcapng`:** Captura del intercambio de mensajes desencadenados ante eventos clínicos anómalos.
 * **`captura_final.pcapng`:** Flujo completo de extremo a extremo atravesando los múltiples saltos de enrutamiento IP.
