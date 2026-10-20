@@ -1,0 +1,13 @@
+# Byte-compiled / Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales y de logs
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuración de entornos
+.vscode/
+.idea/
